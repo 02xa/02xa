@@ -2,4 +2,8 @@
 
 ![Snake animation](https://github.com/sIeeep/sIeeep/blob/output/github-contribution-grid-snake-dark.svg)
 
+<div align=center>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=sIeeep&theme=catppuccin-macchiato&hide_border=true&include_all_commits=true&count_private=true)](https://git.io/streak-stats)
+
+</div>
