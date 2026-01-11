@@ -4,6 +4,6 @@
 
 <div align=center>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=02xa&theme=catppuccin-macchiato&hide_border=true&include_all_commits=true&count_private=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=02xa)](https://git.io/streak-stats)
 
 </div>
